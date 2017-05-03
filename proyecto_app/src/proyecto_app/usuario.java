@@ -64,10 +64,5 @@ public class usuario {
       {
           System.out.print(Id+"esta adquiriendo servicios");
       }
-       
-       
       
-
-    
-    
 }
